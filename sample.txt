@@ -1,0 +1,4 @@
+https://github.com/JakeWharton/ActionBarSherlock
+https://github.com/nathanmarz/storm
+https://github.com/purplecabbage/phonegap-plugins
+https://github.com/jfeinstein10/SlidingMenu
